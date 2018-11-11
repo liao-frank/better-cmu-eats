@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/better-cmu-eats/static/js/runtime~main.1b4d167d.js"
   },
   {
-    "revision": "5c82e313ea55897351a6",
-    "url": "/better-cmu-eats/static/js/main.5c82e313.chunk.js"
+    "revision": "1ab0694c6dabffc289ea",
+    "url": "/better-cmu-eats/static/js/main.1ab0694c.chunk.js"
   },
   {
     "revision": "8506fd4a7f04c6942c5f",
     "url": "/better-cmu-eats/static/js/1.8506fd4a.chunk.js"
   },
   {
-    "revision": "5c82e313ea55897351a6",
+    "revision": "1ab0694c6dabffc289ea",
     "url": "/better-cmu-eats/static/css/main.8c0891e3.chunk.css"
   },
   {
-    "revision": "5ba69846958174965d835a9a9e887c6c",
+    "revision": "0f2309f156fd8cd70763345cf7dcf68e",
     "url": "/better-cmu-eats/index.html"
   }
 ];

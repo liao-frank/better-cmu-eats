@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/better-cmu-eats/precache-manifest.66c1fa315a6ad83791659e172d35532d.js"
+  "/better-cmu-eats/precache-manifest.c36ec11e7aca33ff518a5d93db6e8c14.js"
 );
 
 workbox.clientsClaim();
