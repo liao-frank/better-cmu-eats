@@ -1,14 +1,14 @@
 {
-  "main.css": "/better-cmu-eats/static/css/main.8c0891e3.chunk.css",
-  "main.js": "/better-cmu-eats/static/js/main.1ab0694c.chunk.js",
-  "main.js.map": "/better-cmu-eats/static/js/main.1ab0694c.chunk.js.map",
+  "main.css": "/better-cmu-eats/static/css/main.2cf1f4ff.chunk.css",
+  "main.js": "/better-cmu-eats/static/js/main.4a5d2372.chunk.js",
+  "main.js.map": "/better-cmu-eats/static/js/main.4a5d2372.chunk.js.map",
   "static/js/1.8506fd4a.chunk.js": "/better-cmu-eats/static/js/1.8506fd4a.chunk.js",
   "static/js/1.8506fd4a.chunk.js.map": "/better-cmu-eats/static/js/1.8506fd4a.chunk.js.map",
   "runtime~main.js": "/better-cmu-eats/static/js/runtime~main.1b4d167d.js",
   "runtime~main.js.map": "/better-cmu-eats/static/js/runtime~main.1b4d167d.js.map",
-  "static/css/main.8c0891e3.chunk.css.map": "/better-cmu-eats/static/css/main.8c0891e3.chunk.css.map",
-  "static/media/index.css": "/better-cmu-eats/static/media/star-yellow.cf33ec77.svg",
+  "static/media/index.css": "/better-cmu-eats/static/media/star-black.b2d98172.svg",
+  "static/css/main.2cf1f4ff.chunk.css.map": "/better-cmu-eats/static/css/main.2cf1f4ff.chunk.css.map",
   "index.html": "/better-cmu-eats/index.html",
-  "precache-manifest.c36ec11e7aca33ff518a5d93db6e8c14.js": "/better-cmu-eats/precache-manifest.c36ec11e7aca33ff518a5d93db6e8c14.js",
+  "precache-manifest.2da745432e922f04771eabab5047f2ff.js": "/better-cmu-eats/precache-manifest.2da745432e922f04771eabab5047f2ff.js",
   "service-worker.js": "/better-cmu-eats/service-worker.js"
 }

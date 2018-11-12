@@ -1,5 +1,9 @@
 self.__precacheManifest = [
   {
+    "revision": "9857df1b5623b687eb56a9fe0ffd9ae4",
+    "url": "/better-cmu-eats/static/media/x-gray.9857df1b.svg"
+  },
+  {
     "revision": "cf33ec77a7ca266733e9a0e9e8641db7",
     "url": "/better-cmu-eats/static/media/star-yellow.cf33ec77.svg"
   },
@@ -16,19 +20,19 @@ self.__precacheManifest = [
     "url": "/better-cmu-eats/static/js/runtime~main.1b4d167d.js"
   },
   {
-    "revision": "1ab0694c6dabffc289ea",
-    "url": "/better-cmu-eats/static/js/main.1ab0694c.chunk.js"
+    "revision": "4a5d2372040ce4ac1a61",
+    "url": "/better-cmu-eats/static/js/main.4a5d2372.chunk.js"
   },
   {
     "revision": "8506fd4a7f04c6942c5f",
     "url": "/better-cmu-eats/static/js/1.8506fd4a.chunk.js"
   },
   {
-    "revision": "1ab0694c6dabffc289ea",
-    "url": "/better-cmu-eats/static/css/main.8c0891e3.chunk.css"
+    "revision": "4a5d2372040ce4ac1a61",
+    "url": "/better-cmu-eats/static/css/main.2cf1f4ff.chunk.css"
   },
   {
-    "revision": "0f2309f156fd8cd70763345cf7dcf68e",
+    "revision": "361a4393714253d3429f5b802c358f89",
     "url": "/better-cmu-eats/index.html"
   }
 ];
